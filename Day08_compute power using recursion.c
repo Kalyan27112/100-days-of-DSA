@@ -1,5 +1,6 @@
-#include <stdio.h>
+//Problem 8. Given integers a and b, compute a^b using recursion without using pow() function.
 
+#include <stdio.h>
 int power(int a, int b) {
     // Base case
     if (b == 0) return 1;
