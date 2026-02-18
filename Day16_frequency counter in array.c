@@ -1,4 +1,4 @@
-//Problem 15. Given an array of integers, count the frequency of each distinct element
+//Problem 16. Given an array of integers, count the frequency of each distinct element
 and print the result.
 
 #include <stdio.h>
